@@ -1,6 +1,6 @@
 <?php
-$a = 4;
-$b = 6;
+$a = 2;
+$b = 4;
 $total = $a + $b;
 echo $total;
 ?>
