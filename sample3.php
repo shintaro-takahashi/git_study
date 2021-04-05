@@ -8,7 +8,7 @@
 <?php
 for ($i = 1; $i <= 50; $i++) {
 	echo $i;
-	if ($i % 6 == 0 || strstr($i, '6')) {
+	if ($i % 3 == 0 || strstr($i, '3')) {
 		echo 'たかはし';
 	}
 	echo '<br>';
